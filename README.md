@@ -15,3 +15,7 @@ Tilli Academy Onboarding
 - Name: Rama Murari Reddy
 - Github ID: murari123-byte
 - Github Email: avatalaramamurarireddy@gmail.com
+
+- Name: Arun Banoth
+- Github ID: Arun2kx
+- Github Email: banotharunarun44@gmail.com
